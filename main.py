@@ -24,7 +24,6 @@ def find_num(number, predict, left=1, right=100): # рекурсивная фу�
     return count
 
 
-
 def game_core_v3(number):
     global count # счётчик попыток виден глобально
     count = 1
